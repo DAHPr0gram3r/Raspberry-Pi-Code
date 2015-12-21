@@ -1,2 +1,2 @@
 # Raspberry-Pi-Code
-All my Pi code i created
+All the Pi code i find usefull
