@@ -1,8 +1,0 @@
-import os
-import time
-
-os.system("clear")
-os.system(cd ..)
-time.sleep(0.5)
-os.system("sudo umount /mnt/usb")
-print("Device Unmounted")
